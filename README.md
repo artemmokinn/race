@@ -1,1 +1,2 @@
 # race
+Race JavaScript Game
